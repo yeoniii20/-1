@@ -13,7 +13,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(177, 221, 233);
+    color: gray
     text-align: center;
 }
 
@@ -44,7 +44,7 @@ body{
     right: -10px;
     width: 4px;
     height: 100%;
-    background-color: rgb(229, 244, 184)
+    background-color: gray
 }
 
 #dynamic.active::after{
