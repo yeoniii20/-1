@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: plum 
+    background-color: rgb(223, 198, 223) 
 }
 
 .wrap{
@@ -44,7 +44,7 @@ body{
     right: -10px;
     width: 4px;
     height: 100%;
-    background-color: rgb(216, 240, 146)
+    background-color: rgb(229, 244, 184)
 }
 
 #dynamic.active::after{
