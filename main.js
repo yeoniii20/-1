@@ -39,4 +39,4 @@ console.log(selectStringArr);
 function blink(){
     target.classList.toggle("active");
 }
-setInterval(blink,500);
+setInterval(blink,400);
